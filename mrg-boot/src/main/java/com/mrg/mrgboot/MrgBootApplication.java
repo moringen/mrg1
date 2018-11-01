@@ -1,4 +1,4 @@
-package com.mrg.mrgboot;
+ package com.mrg.mrgboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
